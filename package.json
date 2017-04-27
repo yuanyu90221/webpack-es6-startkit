@@ -3,7 +3,10 @@
   "name": "webpack-es6-startkit",
   "version": "1.0.2",
   "license": "MIT",
-  "keywords": ["babel", "webpack"],
+  "keywords": [
+    "babel",
+    "webpack"
+  ],
   "homepage": "https://www.gitbook.com/book/eyesofkids/javascript-start-from-es6/",
   "repository": "eyesofkids/webpack-es6-startkit",
   "author": "Eddy Chang <eddy@joomla.com.tw> (http://eddychang.me)",
@@ -26,6 +29,7 @@
     "webpack-dev-server": "^1.16.2"
   },
   "dependencies": {
-    "babel-polyfill": "^6.16.0"
+    "babel-polyfill": "^6.16.0",
+    "redux": "^3.6.0"
   }
 }
